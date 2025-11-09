@@ -14,5 +14,8 @@ It focuses on engagement rates, follower growth, and predicting influence levels
 ## 🧰 Tools Used
 Python | Pandas | Matplotlib | Seaborn | Scikit-learn | SQL | Jupyter Notebook
 📄 [Open Notebook](https://github.com/hemalathamg2004-arch/Top-Instagram-Influencers-Data/blob/main/Unified-Project-1.ipynb)
+https://nbviewer.org/github/hemalathamg2004-arch/Top-Instagram-Influencers-Data/blob/main/Unified-Project-1.ipynb
+
+
 
 
